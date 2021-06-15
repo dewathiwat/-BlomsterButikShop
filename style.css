@@ -1,0 +1,31 @@
+
+
+body{
+    background-color: lightgray;
+}
+.boderMe{
+    border: 1px solid rgb(238, 238, 238);
+    
+}
+
+.a{
+    width: 200px;
+    height: 200px;
+    background-color: null;
+}
+.b{
+    width: 180px;
+    margin: 20px;
+
+}
+
+.section_grid_item{
+    
+    margin: 3px;
+    width: 200px;
+    height: 200px;
+}
+.bghover:hover{
+    background-color: gainsboro;
+
+}
